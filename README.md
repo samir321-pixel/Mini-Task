@@ -29,7 +29,7 @@ Now do the following to setup project.
 First, clone the repository to your local machine:
 
 ```bash
-git clone  https://github.com/samir321-pixel/Weather_Report_ReactJS.git
+git clone  https://github.com/samir321-pixel/Mini-Task.git
 ```
 # run migrate
 
