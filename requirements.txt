@@ -1,0 +1,28 @@
+asgiref @ file:///tmp/build/80754af9/asgiref_1605055780383/work
+certifi==2020.12.5
+chardet==4.0.0
+coreapi==2.3.3
+coreschema==0.0.4
+Django @ file:///tmp/build/80754af9/django_1609784082548/work
+django-filter==2.4.0
+django-phone-field==1.8.1
+djangorestframework==3.12.2
+djangorestframework-simplejwt==4.6.0
+drf-yasg==1.20.0
+idna==2.10
+inflection==0.5.1
+itypes==1.2.0
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+packaging==20.9
+psycopg2 @ file:///C:/ci/psycopg2_1608147646713/work
+PyJWT==2.0.1
+pyparsing==2.4.7
+pytz @ file:///tmp/build/80754af9/pytz_1608922264688/work
+requests==2.25.1
+ruamel.yaml==0.16.12
+ruamel.yaml.clib==0.2.2
+sqlparse @ file:///tmp/build/80754af9/sqlparse_1602184451250/work
+uritemplate==3.0.1
+urllib3==1.26.3
+wincertstore==0.2
