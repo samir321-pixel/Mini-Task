@@ -51,7 +51,12 @@ python manage.py createsuperuser
 ```
 
 # Done!
+
 Finally, run the development server:
+
+```bash
+python manage.py runserver
+```
 The project will be available at http://127.0.0.1:8000/
 
 
